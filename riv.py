@@ -1,1 +1,4 @@
-print(4)
+a='A'
+
+
+print(type(ord(a)),ord(a))

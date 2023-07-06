@@ -8,14 +8,14 @@ print("length",t)
 # print()
 # for n in range(t):
 #     print(l[n])
-
-
+#
+#
 # # # print list index number
 # print()
 # for n in range(t):
 #     print(n)
-
-
+#
+#
 # # List Direct pass
 # # isse just uper list ke index number print ho rhe he
 # # but yha print ho rhe hai list element one by one
@@ -24,15 +24,15 @@ print("length",t)
 #     print(n)
 
 
-# Reverse case me List Direct pass work nhi karta
-# always reverse case me length pass karna hi he
-# index number in reverse order
+# # Reverse case me List Direct pass work nhi karta
+# # always reverse case me length pass karna hi he
+# # index number in reverse order
 # for n in range(t-1,-1,-1):
 #     print(n)
 # print()
 # for n in range(t-1,-1,-1):
 #     print(l[n])
-# or
+# # or
 # for n in range(t,0,-1):
 #     print(l[n-1])
 

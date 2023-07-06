@@ -2,16 +2,17 @@ s="Python kesi chal rhi he"
 
 # string iteration without len function or direct string pass but isme string reverse nhi kra sakte
 # isme string reverse karane ke liye string ko reverse karke direct pass kre
+
 # s=s[-1::-1] # string reverse
 # for a in s:
 #     print(a)
 
 
-print(len(s))
-i=0
-while (i<23):
-    print(s[i])
-    i=i+1
+# print(len(s))
+# i=0
+# while (i<23):
+#     print(s[i])
+#     i=i+1
 
 
 # print("revrse")
@@ -20,7 +21,7 @@ while (i<23):
 #     print(s[i-1])
 #     i-=1
 
-#
+
 # # using for loop
 # for a in range(len(s)):
 #     print(s[a])

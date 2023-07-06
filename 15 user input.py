@@ -4,10 +4,11 @@
 # print("Value of b is :",b)
 # print(a+b) # yha '+' concenate kar rha he
 
+
 # # python me as input string hota
 
 # # so type casting
-#
+
 # int type casting
 # a=int(input("Enter the value of a : "))
 # b=int(input("Enter the value of b : "))
@@ -15,6 +16,7 @@
 # print("Value of b is :",b)
 # print(a+b)
 # print(int(a+b))
+
 
 # float type casting
 # a=float(input("Enter the value of a again : "))

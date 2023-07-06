@@ -21,5 +21,7 @@ s="Welcome to wscube"
 print()
 print(s[-1:])
 print(s[-1::])
+print(s[-1:-17:-1])
+print(s[-1:-18:-1])
 print(s[-1:-10:-2])
 print(s[-1::-1]) # revese string

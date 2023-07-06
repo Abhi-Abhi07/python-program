@@ -15,6 +15,7 @@ print(l[0:2])
 print(l[3:])
 
 # list slicing three argument
+print()
 print(l[0::2])
 
 # reverse case always three argument
