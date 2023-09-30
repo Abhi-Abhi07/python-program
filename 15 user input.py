@@ -18,7 +18,7 @@
 # print(int(a+b))
 
 
-# float type casting
+# # float type casting
 # a=float(input("Enter the value of a again : "))
 # b=float(input("Enter the value of b again : "))
 # print("Value of a is :",a)

@@ -53,3 +53,4 @@ print()
 print("Set")
 s={10,10,10,2,34}
 print(s,"is type of",type(s))
+

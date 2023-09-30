@@ -1,4 +1,4 @@
-a='A'
+print("Ram Ram Ram Ram Ram")
 
 
-print(type(ord(a)),ord(a))
+print(0.1*3)
