@@ -2,7 +2,7 @@
 # for a in range(1,101):
 #     l.append(a)
 #     # print(l)
-#     # print(l[a-1])
+#     print(l[a-1])
 # print(l)
 
 
@@ -20,3 +20,4 @@
 # print(d)
 # for g in s:
 #     print(list(g))
+#     print(g)

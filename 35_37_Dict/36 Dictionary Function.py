@@ -22,11 +22,11 @@ d={
 # print("\n\n")
 # for a in d.items():
 #     print(a)
-#
+
 # print()
 # for a,b in d.items():
 #     print(a,b)
-#
+
 # print()
 # del d['name']
 # print(d)

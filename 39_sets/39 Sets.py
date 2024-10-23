@@ -33,6 +33,7 @@ print(s)
 #     'java':{'duration':'3Month','fees':20000}
 # }
 # print(set(course))
+# # print(course)
 
 
 # s.remove(30)
@@ -50,11 +51,12 @@ print(s)
 # print(s)
 # print(s.pop())
 # print(s)
-
+#
+# s.add(3)
 # s.add(3)
 # print(s)
-
-# l=[100,200,30]
-# # s.update(23) # show error
-# s.update(l)
-# print(s)
+#
+l=[100,200,30]
+# s.update(23) # show error
+s.update(l)
+print(s)

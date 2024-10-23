@@ -18,8 +18,8 @@ class Ak(Ai):
 
 obj=Ai()
 # overloadding
-# obj.displayinfo()
-# obj.displayinfo("Abhi")
+obj.displayinfo()
+obj.displayinfo("Abhi")
 
 # overriding
 obj2=Ak()

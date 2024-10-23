@@ -23,3 +23,4 @@ for a,b in course.items():
 print()
 for a,b in course.items():
     print(a,b['duration'],b['fees'])
+

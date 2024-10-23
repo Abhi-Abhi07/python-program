@@ -1,7 +1,7 @@
-s=input("Enter the value ")
-print(s)
-l = s.split()
-print(l)
+# s=input("Enter the value ")
+# print(s)
+# l = s.split()
+# print(l)
 
 
 l=[]

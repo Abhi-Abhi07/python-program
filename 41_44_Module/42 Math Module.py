@@ -5,17 +5,17 @@ import math
 # https://docs.python.org/3.7/library/math.html
 # *****
 
-# math.ceil()
+# # math.ceil()
 x=10.33
 print(math.ceil(x))
-y=20.00000000000001
-z=20.000000000000001
-print(math.ceil(y))
-print(math.ceil(z))
-x=-33.44
-print(math.ceil(x))
-print(math.ceil(-21.99999999999999))
-print(math.ceil(-21.999999999999999))
+# y=20.00000000000001
+# z=20.000000000000001
+# print(math.ceil(y))
+# print(math.ceil(z))
+# x=-33.44
+# print(math.ceil(x))
+# print(math.ceil(-21.99999999999999))
+# print(math.ceil(-21.999999999999999))
 
 
 # # math.fabs() # return postive value
@@ -54,7 +54,7 @@ print(math.ceil(-21.999999999999999))
 # print(math.fsum(set))
 
 
-# # math.squt()
+# # math.sqrt()
 # x=9
 # y=5
 # print(math.sqrt(x))

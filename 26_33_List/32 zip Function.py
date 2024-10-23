@@ -1,12 +1,12 @@
-l=[10,20,40,50,1,1]
-l2=[3,5,77,88,8]
+# l=[10,20,40,50,1,1]
+# l2=[3,5,77,88,8]
 
 # zip extra elment ko ignore kar deta hai
-for a,b in zip(l,l2):
-    print(a,b)
-#
-for a, b in zip(l, l2):
-    print(a+b)
+# for a,b in zip(l,l2):
+#     print(a,b)
+
+# for a, b in zip(l, l2):
+#     print(a+b)
 
 
 # ek baar all output run karaye
@@ -16,7 +16,7 @@ for a, b in zip(l, l2):
 
 # l=[10,20,40,50]
 # l2=[3,5,77,88,4]
-
+#
 # l=[10,20,40,50]
 # l2=[3,5,77,88]
 

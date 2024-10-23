@@ -15,7 +15,7 @@ print("Month : ",now.strftime("%b"))
 print("Month : ",now.strftime("%m"))
 print("Minute : ",now.strftime("%M"))
 print("Hour(0-23) : ",now.strftime("%H"))
-print("Year(0-12) : ",now.strftime("%I"))
+print("Hour(0-12) : ",now.strftime("%I"))
 print("Am/Pm : ",now.strftime("%p"))
 
 

@@ -51,12 +51,13 @@
 # print(l)
 
 # append Function use -> data ko add karta he
-l=[2,5,10,20,34,90,23]
-l.append([7,8,9])
-l.append(300)
-print(l)
-
-# # extends Function use -> value ko add karta he
 # l=[2,5,10,20,34,90,23]
-# l.extend([7,8,9])
+# l.append([7,8,9])
+# l.append(300)
 # print(l)
+
+# extends Function use -> value ko add karta he
+l=[2,5,10,20,34,90,23]
+l.extend([7,8,9])
+l.extend(["ghu"])
+print(l)
